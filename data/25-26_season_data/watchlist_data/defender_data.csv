@@ -1,0 +1,35 @@
+player,team,price,xGp90,xAp90,xGCp90,defensive contributions p/match,BPS p/match,yellow cards p/match
+Gabriel,Arsenal,6.3,0.07,0.01,0.63,9.29,0.71,0.00
+Virgil,Liverpool,6.1,0.03,0.02,1.11,11.29,0.57,0.14
+Cucurella,Chelsea,6.1,0.04,0.18,1.43,6.72,0.57,0.29
+Porro,Tottenham,5.6,0.02,0.15,1.29,7.60,0.00,0.14
+Munoz,Crystal Palace,5.6,0.12,0.17,1.26,7.43,0.14,0.43
+Tarkowski,Everton,5.5,0.03,0.06,1.41,11.29,0.14,0.14
+Milenkovic,Nottingham Forest,5.3,0.01,0.03,1.74,6.86,0.00,0.14
+Burn,Newcastle,5.1,0.01,0.02,0.71,8.29,0.57,0.29
+Romero,Tottenham,5.1,0.01,0.04,1.26,7.86,0.43,0.43
+Lacroix,Crystal Palace,5.1,0.04,0.02,1.26,10.29,0.29,0.14
+Mitchell,Crystal Palace,5.0,0.05,0.07,1.26,8.57,0.29,0.29
+de Ligt,Manchester United,5.0,0.07,0.06,1.42,8.86,0.71,0.00
+O'Brien,Everton,5.0,0.06,0.03,1.41,6.00,0.14,0.00
+Senesi,Bournemouth,4.9,0.02,0.09,0.89,12.84,0.86,0.14
+Collins,Brentford,4.9,0.02,0.06,1.39,8.86,0.14,0.43
+van de Ven,Tottenham,4.8,0.10,0.02,1.28,5.67,0.29,0.14
+Guehi,Crystal Palace,4.8,0.08,0.08,1.26,8.14,0.43,0.00
+Cash,Aston Villa,4.6,0.01,0.08,1.31,6.09,0.29,0.29
+Konsa,Aston Villa,4.5,0.01,0.01,1.44,4.54,0.00,0.29
+Truffert,Bournemouth,4.5,0.01,0.06,0.91,6.57,0.57,0.00
+Richards,Crystal Palace,4.5,0.05,0.09,1.26,10.43,0.00,0.00
+Andersen,Fulham,4.5,0.06,0.11,1.30,11.29,0.29,0.00
+Bassey,Fulham,4.5,0.02,0.01,1.30,6.00,0.43,0.29
+Dunk,Brighton,4.5,0.05,0.01,1.32,7.71,0.00,0.43
+van den Berg,Brentford,4.5,0.12,0.01,1.39,8.00,0.00,0.00
+Struijk,Leeds,4.5,0.09,0.01,1.12,8.14,0.29,0.00
+Bogle,Leeds,4.5,0.02,0.02,1.00,7.79,0.00,0.29
+van Hecke,Brighton,4.5,0.07,0.03,1.32,8.57,0.43,0.29
+Diouf,West Ham,4.4,0.03,0.11,1.60,6.86,0.14,0.14
+Walker,Burnley,4.4,0.02,0.03,1.95,6.00,0.00,0.29
+Rodon,Leeds,4.0,0.06,0.00,1.12,8.86,0.29,0.00
+Gudmundsson,Leeds,4.0,0.03,0.05,1.16,7.27,0.86,0.14
+Hartman,Burnley,4.0,0.02,0.10,1.87,7.32,0.00,0.14
+Esteve,Burnley,4.0,0.03,0.00,1.96,9.69,0.00,0.00
